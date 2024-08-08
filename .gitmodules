@@ -1,0 +1,6 @@
+[submodule "roll_dice"]
+	path = roll_dice
+	url = https://github.com/giabao12-hali/roll_dice_flutter
+[submodule "quizz_app"]
+	path = quizz_app
+	url = https://github.com/giabao12-hali/quizz_app
